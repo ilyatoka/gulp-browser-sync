@@ -1,6 +1,5 @@
 # Enjoy your development with auto-reload
 
-## Environment
 1. Install Node.js (v12.10.0)
   * https://nodejs.org/en/download/
   * or using https://github.com/nvm-sh/nvm
