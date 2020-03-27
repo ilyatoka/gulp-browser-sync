@@ -1,0 +1,46 @@
+/* --- GLOBAL --- */
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* --- Header --- */
+.header {
+}
+
+.header-logo {
+}
+
+/* --- Main --- */
+.main {
+}
+
+/* --- Section --- */
+.section {
+}
+
+/* --- Post --- */
+.post {
+}
+
+.post-title {
+}
+
+.post-text {
+}
+
+/* --- Footer --- */
+.footer {
+}
+
+.footer-logo {
+}
